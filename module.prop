@@ -1,0 +1,7 @@
+id=deeprest
+name=DeepRest - Intelligent App Freezer
+version=1.0
+versionCode=1
+author=Tanzim Islam (@itanzim)
+description=Automatically force stops user installed apps when the phone is locked. Simple. Silent. Smart.
+updateJson=https://raw.githubusercontent.com/itanzim/deeprest/main/update.json

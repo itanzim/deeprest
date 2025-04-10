@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/itanzim/deeprest/releases/download/v1.0/deeprest-v1.0.zip",
+  "changelog": "Initial release of DeepRest. Automatically force-stops user apps when the phone is locked."
+}
